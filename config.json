@@ -36,11 +36,11 @@
   "metricsServerHosts": ["10.47.192.13"],
   "metricsServerPort": 8125,
   "autoDeviceRefresh": true,
-  "autoAnswer": true,
+  "autoAnswer": false,
   "persistAccounts": true,
   "enableSTUN": true,
   "enableICE": false,
   "stunServers": ["stun.l.google.com:19302"],
   "handleNOTIFY": true,
-  "autoAnswerDelay": 1000
+  "autoAnswerDelay": 100000
 }
