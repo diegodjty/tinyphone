@@ -11,7 +11,7 @@
   "timeoutSec": 600,
   "refreshIntervalSec": 120,
   "transport": 1,
-  "uaPrefix": "TinyPhone Pjsua2 v",
+  "uaPrefix": "SavvyPhone",
   "prefferedAudioDevices": [
     "sound",
     "usb",
