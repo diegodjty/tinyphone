@@ -1,4 +1,4 @@
-{
+ {
   "audioCodecs": ["PCMA/8000/1", "PCMU/8000/1", "G729/8000/1"],
   "dropCallsOnFail": false,
   "firstRetryIntervalSec": 15,
@@ -31,7 +31,7 @@
   "enableNoiseCancel": false,
   "ecTailLen": 200,
   "enableWSEvents": false,
-  "enableMetrics": true,
+  "enableMetrics": false,
   "metricsProto": "UDP",
   "metricsServerHosts": ["10.47.192.13"],
   "metricsServerPort": 8125,
